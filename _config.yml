@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huypothermia"
+title                    : "Hypothermia"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "Machine Learning."
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :Hypothermia
 facebook:
   username               :
   app_id                 :
