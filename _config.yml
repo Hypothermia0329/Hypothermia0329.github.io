@@ -17,6 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Hypothermia"
+title                    : "Hypothermia333"
 title_separator          : "-"
 name                     : "Hypothermia"
 description              : "Machine Learning."
